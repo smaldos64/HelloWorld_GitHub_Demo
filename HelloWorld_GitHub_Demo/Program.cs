@@ -29,6 +29,7 @@ namespace HelloWorld_GitHub_Demo
                 My3DimensionPoint.X_Value, My3DimensionPoint.Y_Value, My3DimensionPoint.Z_Value);
             
             // Kommentar added in GitHub
+            // Ny kommentar added i GitHub
         }
     }
 }
