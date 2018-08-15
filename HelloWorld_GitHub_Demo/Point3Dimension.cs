@@ -8,6 +8,6 @@ namespace HelloWorld_GitHub_Demo
 {
     class Point3Dimension : Point
     {
-        double Z_Value;
+        public double Z_Value;
     }
 }
