@@ -31,6 +31,7 @@ namespace HelloWorld_GitHub_Demo
             // Kommentar added in GitHub
             // Ny kommentar added i GitHub
             // Endnu en ny kommentar added i GitHub.
+            // Og endnu en.
         }
     }
 }
