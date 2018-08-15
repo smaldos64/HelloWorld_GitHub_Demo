@@ -21,6 +21,12 @@ namespace HelloWorld_GitHub_Demo
             My3DimensionPoint.Z_Value = 3;
             Console.WriteLine("Punktets koordinater er : ({0} ; {1} ; {2})",
                 My3DimensionPoint.X_Value, My3DimensionPoint.Y_Value, My3DimensionPoint.Z_Value);
+
+            My3DimensionPoint.X_Value = 4;
+            My3DimensionPoint.Y_Value = 5;
+            My3DimensionPoint.Z_Value = 6;
+            Console.WriteLine("Punktets koordinater er : ({0} ; {1} ; {2})",
+                My3DimensionPoint.X_Value, My3DimensionPoint.Y_Value, My3DimensionPoint.Z_Value);
         }
     }
 }
