@@ -37,6 +37,8 @@ namespace HelloWorld_GitHub_Demo
             // Bliver denne linje hentet ned med en Git-Fetch ??? Spændende at se. Det gjorde den ikke. Man skal bruge en Git-Pull.
 
             // Code was added in VS.
+
+            // Code to call Feature 1
         }
     }
 }
