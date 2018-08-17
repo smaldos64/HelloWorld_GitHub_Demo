@@ -32,6 +32,8 @@ namespace HelloWorld_GitHub_Demo
             // Ny kommentar added i GitHub
             // Endnu en ny kommentar added i GitHub.
             // Og endnu en.
+            // Og sørme en mere. Hvis jeg skal hente denne ændring ned i mit lokale Repository, skal jeg lave en pull
+            // i mit VS projekt.
         }
     }
 }
