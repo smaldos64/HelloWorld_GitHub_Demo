@@ -34,7 +34,7 @@ namespace HelloWorld_GitHub_Demo
             // Og endnu en.
             // Og sørme en mere. Hvis jeg skal hente denne ændring ned i mit lokale Repository, skal jeg lave en pull
             // i mit VS projekt.
-            // Bliver denne linje hentet ned med en Git-Fetch ??? Spændende at se.
+            // Bliver denne linje hentet ned med en Git-Fetch ??? Spændende at se. Det gjorde den ikke. Man skal bruge en Git-Pull.
         }
     }
 }
