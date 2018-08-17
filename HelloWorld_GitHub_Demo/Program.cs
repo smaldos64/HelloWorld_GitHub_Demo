@@ -39,6 +39,8 @@ namespace HelloWorld_GitHub_Demo
             // Code was added in VS.
 
             // Code to call Feature 1
+            
+            // Code to call Feature 3
         }
     }
 }
