@@ -15,5 +15,6 @@ namespace HelloWorld_GitHub_Demo
             var sum = x1 + x2;
             return (sum);
         }
+        // Just added comment to get Merge to work !!!
     }
 }
